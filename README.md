@@ -55,4 +55,4 @@ I'm a Computer Engineering student who thrives at the intersection of **Machine 
 ---
 
 <p align="center">
-  <i>"The best way to predict the future is to create it — one mode
+  <i>"The best way to predict the future is to create it
